@@ -1,0 +1,6 @@
+export const LOGIN="LOGIN"
+export const SIGNUP="SIGNUP"
+export const GET_PRODUCTS="GET_PRODUCTS"
+export const GET_FAMILIES="GET_FAMILIES"
+export const GET_LOCATIONS="GET_LOCATIONS"
+export const GET_TRANSACTIONS="GET_TRANSACTIONS"
